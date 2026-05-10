@@ -108,19 +108,3 @@ Example:
 
 Other patient and doctor login records are stored in `Data/patients.txt` and `Data/doctors.txt`.
 
-## Submission Notes
-
-Submit one `.zip` file named exactly according to your roll number, for example:
-
-`22L-1234.zip`
-
-The zip file should include:
-
-- All `.h` files.
-- All `.cpp` files.
-- `README.md`
-- `Data` folder.
-- Visual Studio project files.
-- Required font and resource files.
-
-Do not submit only the `.exe` file because the evaluator needs the source code.
