@@ -4,7 +4,7 @@ MediCore Hospital Management System is a C++ object-oriented hospital management
 
 ## GitHub Repository Link
 
-Replace this line with your public GitHub repository link after uploading the project:
+
 
 `https://github.com/RHassan786/MediCore-Hospital-Management-System.git`
 
