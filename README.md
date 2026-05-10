@@ -4,8 +4,6 @@ MediCore Hospital Management System is a C++ object-oriented hospital management
 
 ## GitHub Repository Link
 
-
-
 `https://github.com/RHassan786/MediCore-Hospital-Management-System.git`
 
 ## Features
@@ -84,7 +82,11 @@ The files must remain in the `Data` folder so the program can load the records c
 
 4. Open the project in Visual Studio using:
 
- `Medicore Hospital Management System.slnx`
+   `Medicore Hospital Management System.slnx`
+
+   If Visual Studio does not open the solution file, open the project file instead:
+
+   `Medicore Hospital Management System.vcxproj`
 
 5. Select the `Debug` configuration.
 6. Select the same platform used by the SFML libraries, preferably `x64` if SFML is installed for x64.
@@ -107,4 +109,3 @@ Example:
 - Password: `admin123`
 
 Other patient and doctor login records are stored in `Data/patients.txt` and `Data/doctors.txt`.
-
