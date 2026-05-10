@@ -84,7 +84,7 @@ The files must remain in the `Data` folder so the program can load the records c
 
 4. Open the project in Visual Studio using:
 
-   `Medicore Hospital Management System.vcxproj`
+ `Medicore Hospital Management System.slnx`
 
 5. Select the `Debug` configuration.
 6. Select the same platform used by the SFML libraries, preferably `x64` if SFML is installed for x64.
